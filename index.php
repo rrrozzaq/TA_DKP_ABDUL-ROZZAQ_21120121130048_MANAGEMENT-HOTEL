@@ -67,7 +67,7 @@ modul 8 gui -->
             <?php
             //class pendefinisi method (modul 5)
             class pendefinisi
-            //modul 4 function dan method
+            //modul 4  method
             {
                 public function staysafe(string $noun1, string $noun2)
                 {
