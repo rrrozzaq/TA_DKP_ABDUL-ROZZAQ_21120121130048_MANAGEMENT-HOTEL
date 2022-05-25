@@ -14,7 +14,6 @@
             margin: auto;
             width: 400px;
             padding: 30px;
-            /* border: 2px solid; */
             background: #c8981e;
             border-radius: 20px;
             box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.4);
@@ -45,11 +44,6 @@
             border-radius: 20px;
         }
 
-        /* button {
-               background: maroon;
-               cursor: pointer;
-               color: #fff;
-          } */
     </style>
 
     <head>
@@ -57,32 +51,6 @@
     <body>
 
         <br><br><br><br><br><br><br><br>
-        <!-- <table width="100%">
-
-            <tr>
-
-                <td bgcolor="#c8981e" align="center">
-
-                    <h2>&nbsp;&nbsp;QAZZOR HOTEL</h2>
-
-                </td>
-
-                <td width="15%" bgcolor="#c8981e">
-
-                    <form class="" action="index.html" method="post">
-
-                        <input height="50px" type="search" name="" value="" placeholder="Cari data">
-
-                        <button type="button" name="button">Cari</button>
-
-                    </form>
-
-                </td>
-
-            </tr>
-
-        </table> -->
-
         <table>
 
             <tr>
