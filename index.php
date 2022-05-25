@@ -79,8 +79,7 @@ modul 8 gui -->
             
             //$objek merupakan instance dari class pendefinisi
             $objek = new pendefinisi();
-
-            // OOP pada PHP menggunakan -> bukan . 
+ 
             echo "<br>";
             $objek->staysafe('air', 'sabun');
             ?>
@@ -91,11 +90,6 @@ modul 8 gui -->
             <tr>
                 <td width="34%">
                     <img width="100%" src="hotel.jpg">
-                    <a href="reservasi.php" style="color: black;">
-
-                        <h3>Reservasi<h3>
-
-                    </a>
                 </td>
                 <td>
                     <img width="100%" src="kamar.jpg">
