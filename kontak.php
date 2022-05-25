@@ -15,15 +15,6 @@
             color: #ffffff00;
         }
 
-        /* input{
-               float: right;
-          }
-          button {
-               background: maroon;
-               cursor: pointer;
-               color: #fff;
-               float: right;
-          } */
     </style>
 
     <head>
