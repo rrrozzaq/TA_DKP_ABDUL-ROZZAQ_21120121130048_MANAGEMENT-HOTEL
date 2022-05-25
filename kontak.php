@@ -30,32 +30,7 @@
 
     <body>
         <br><br><br><br><br><br><br>
-        <!-- <table width="100%">
-
-               <tr>
-
-                    <td bgcolor="#c8981e" align="center">
-
-                         <h2>&nbsp;&nbsp;QAZZOR HOTEL</h2>
-
-                    </td>
-
-                    <td width="15%" bgcolor="#c8981e">
-
-                         <form class="" action="index.html" method="post">
-
-                              <input height="50px" type="search" name="" value="" placeholder="Cari data"><br>
-
-                              <button type="button" name="button">Cari</button>
-
-                         </form>
-
-                    </td>
-
-               </tr>
-
-          </table> -->
-
+       
         <table>
 
             <tr>
@@ -86,9 +61,9 @@
         <?php
         class kontakAdmin //class
         {
-            public $nama;
-            public $nomor;
-            public $email;
+            private $nama;
+            private $nomor;
+            private $email;
 
             public function __construct($nama, $nomor, $email) //constructor
             {
